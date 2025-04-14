@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Java (Servlets & JSP), SCSS, JWT, SQL, and Backend Engineering**
 - 👯 I’m looking to collaborate on **IoT Projects, Full Stack Web Apps, and Blogging Projects**
 - 💬 Ask me about **Java, ESP32, IoT, MongoDB, React, Blogging, AdSense, and Web Deployment**
-- 📫 Reach me at: **[rohanpoudel2024@gmail.com](mailto:yitsmerohan@gmail.com)**
+- 📫 Reach me at: **[yitsmerohan@gmail.com](mailto:yitsmerohan@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun Fact: *loading...*
 
