@@ -1,5 +1,12 @@
-<!-- Animated Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rohan%20Poudel%20🚀&fontSize=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=&animation=scale&fontSize=35&fontColor=ffffff)
+
+<div align="center">
+  <img src="https://scontent.fbir4-1.fna.fbcdn.net/v/t39.30808-6/480457129_122200708808187873_1475529064764219385_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7SZmnKAb-_kQ7kNvwHDLC_o&_nc_oc=AdmePPXcNEzeCosWyVyvpAO4xtXw4znkTuu83lkQ2NStuda_CJmXa6aaNbgHRbExbuU&_nc_zt=23&_nc_ht=scontent.fbir4-1.fna&_nc_gid=tXE6FKXq2lP5fhhs7uelBA&oh=00_AfGQCbDfTyfG75TVLk32wUSJ2hadK2KQZySsJI13RWugCQ&oe=6802F8A2" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin-top: -75px;"
+       alt="Rohan Poudel Profile Photo">
+</div>
 
 <h1 align="center">Hi 👋, I'm Rohan Poudel</h1>
 <h3 align="center">Aspiring Full Stack Developer | IoT Innovator | Blogging & DevOps Enthusiast</h3>
