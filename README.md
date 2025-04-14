@@ -1,12 +1,8 @@
-<!-- Animated Header Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rohan%20Poudel&animation=fadeIn&fontSize=42&fontColor=ffffff)
 
 <div align="center">
-  <!-- Replace with a GitHub-hosted image or a reliable image service -->
   <img src="https://github.com/RohanPoudel2024/RohanPoudel2024/blob/main/php.jpg?raw=true" 
        width="150" 
-       height="150" 
-       style="border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin-top: -75px;"
        alt="Rohan Poudel Profile Photo">
 </div>
 
@@ -26,7 +22,7 @@
 - 💬 Ask me about **Java, ESP32, IoT, MongoDB, React, Blogging, AdSense, and Web Deployment**
 - 📫 Reach me at: **[yitsmerohan@gmail.com](mailto:yitsmerohan@gmail.com)**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun Fact: **Coding by day, debugging by night, and dreaming in algorithms!**
+- ⚡ Fun Fact: **!**
 
 ---
 
@@ -102,11 +98,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanPoudel2024&show_icons=true&theme=radical&border_radius=10" alt="Rohan's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanPoudel2024&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPoudel2024&layout=donut&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanPoudel2024&show_icons=true&theme=radical" alt="Rohan's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPoudel2024&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
@@ -129,8 +123,7 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RohanPoudel2024/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=RohanPoudel2024&style=flat-square&color=blue" alt="Visitor Count" />
 </div>
 
-<!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
