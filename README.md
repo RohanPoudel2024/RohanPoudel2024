@@ -11,9 +11,9 @@
 - 🌱 I’m currently learning **Java (Servlets & JSP), SCSS, JWT, SQL, and Backend Engineering**
 - 👯 I’m looking to collaborate on **IoT Projects, Full Stack Web Apps, and Blogging Projects**
 - 💬 Ask me about **Java, ESP32, IoT, MongoDB, React, Blogging, AdSense, and Web Deployment**
-- 📫 Reach me at: **[rohanpoudel2024@gmail.com](mailto:rohanpoudel2024@gmail.com)**
+- 📫 Reach me at: **[rohanpoudel2024@gmail.com](mailto:yitsmerohan@gmail.com)**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun Fact: *loacing...*
+- ⚡ Fun Fact: *loading...*
 
 ---
 
@@ -80,13 +80,13 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rohanpoudel2024/">
+  <a href="https://www.linkedin.com/in/rohan-poudel-065467320/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RohanPoudel2024">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://facebook.com/rohanpoudel2024">
+  <a href="https://facebook.com/1rohan.dev">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
