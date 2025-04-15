@@ -19,7 +19,7 @@
 - 🔭 Currently working on **Yajaman - A MERN Stack Ritual Booking Platform**
 - 🌱 Learning **Java (Servlets & JSP), SCSS, JWT, SQL, and Backend Engineering**
 - 👯 Looking to collaborate on **IoT Projects, Full Stack Web Apps, and Blogging Projects**
-- 💬 Ask me about **Java, ESP32, IoT, MongoDB, React, Blogging, AdSense, and Web Deployment**
+- 💬 Ask me about **Java, IoT, MongoDB, React, Blogging, AdSense, and Web Deployment**
 - 📫 Reach me at: **[yitsmerohan@gmail.com](mailto:yitsmerohan@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun Fact: **!**
