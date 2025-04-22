@@ -105,6 +105,13 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/rohanpoudel2024">
+    <img src="https://github-readme-streak-stats-phi-opal.vercel.app?user=rohanpoudel2024&theme=radical&hide_border=true&background=0D1117&ring=ff3860&fire=ff3860&currStreakLabel=ff3860" alt="GitHub Streak"/>
+  </a>
+</div>
+---
+
 ### 📫 Connect With Me
 
 <p align="center">
