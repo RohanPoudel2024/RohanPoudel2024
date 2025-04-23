@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Yajaman - A MERN Stack Ritual Booking Platform**
+- 🔭 Currently working on **Aayojana - Java Servlet Event Booking Platform**
 - 🌱 Learning **Java (Servlets & JSP), SCSS, JWT, SQL, and Backend Engineering**
 - 👯 Looking to collaborate on **IoT Projects, Full Stack Web Apps, and Blogging Projects**
 - 💬 Ask me about **Java, IoT, MongoDB, React, Blogging, AdSense, and Web Deployment**
