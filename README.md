@@ -129,8 +129,5 @@
   </a>
 </p>
 
-<!--<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohanPoudel2024&style=flat-square&color=blue" alt="Visitor Count" />
-</div> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
