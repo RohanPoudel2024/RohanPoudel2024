@@ -6,7 +6,7 @@
        alt="Rohan Poudel Profile Photo">
 </div>
 
-<h3 align="center">Aspiring Full Stack Developer | IoT Innovator | Blogging & DevOps Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RohanPoudel2024" alt="Visitor Badge" />
@@ -71,7 +71,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![VPS Hosting](https://img.shields.io/badge/VPS%20Hosting-00A8E8?style=for-the-badge&logo=digitalocean&logoColor=white)
 </details>
 
