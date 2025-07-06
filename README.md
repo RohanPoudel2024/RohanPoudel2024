@@ -121,19 +121,8 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanPoudel2024&show_icons=true&theme=radical" alt="Rohan's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPoudel2024&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohanpoudel2024&theme=git-dark&hide_border=true&locale=ne&short_numbers=true)](https://git.io/streak-stats)
 
----
-
-<div align="center">
-  <a href="https://github.com/rohanpoudel2024">
-    <img src="https://github-readme-streak-stats-phi-opal.vercel.app?user=rohanpoudel2024&theme=radical&hide_border=true&background=0D1117&ring=ff3860&fire=ff3860&currStreakLabel=ff3860" alt="GitHub Streak"/>
-  </a>
-</div>
 
 ---
 
