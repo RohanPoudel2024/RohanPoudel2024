@@ -119,12 +119,7 @@
 
 ---
 
-### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohanpoudel2024&theme=git-dark&hide_border=true&locale=ne&short_numbers=true)](https://git.io/streak-stats)
-
-
----
 
 ### Connect With Me
 
