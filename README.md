@@ -122,19 +122,17 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rohanpoudel2024&theme=midnight-white&show_icons=true&hide_border=true&count_private=true&locale=np" 
+    src="https://github-readme-stats.vercel.app/api?username=rohanpoudel2024&theme=default&show_icons=true&hide_border=true&count_private=true&locale=np&bg_color=FFFFFF" 
     alt="GitHub Stats in Nepali"
     width="600"
   />
   <br />
   <img 
-    src="https://streak-stats.demolab.com?user=rohanpoudel2024&locale=ne&theme=midnight-purple&hide_border=true"
+    src="https://streak-stats.demolab.com?user=rohanpoudel2024&locale=ne&theme=default&hide_border=true&background=FFFFFF" 
     alt="GitHub Streak in Nepali"
     width="600"
   />
 </p>
-
-
 
 
 ### Connect With Me
